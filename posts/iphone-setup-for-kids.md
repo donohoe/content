@@ -1,0 +1,163 @@
+
+# iPhone Setup for Kids
+#### April 25th 2019
+
+This is the basic iPhone setup I used to setup my kids iOS phone. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
+
+I would recommend many of these steps for everyone else too. You should ask yourself 'Why would I do this?' at regular intervals. 
+
+Please let me know if you spot mistakes or anything that is no longer valid.
+
+## Privacy, Ad Blocking & Tracking Apps
+
+* 1Blocker
+    * Installed "1Blocker Legacy" (free), maybe "1Blocker" (paid)
+* "1.1.1.1"
+    * DNS and privacy from Cloudflare
+
+## General nice apps to have
+
+### Applications
+* The New York Times
+* The New Yorker Today
+    * Expand your mind and read whatever you like (subscription required)
+* Dark Skies
+    * ToDo check privacy policy
+* Docs
+* Spotify
+    * Access to family account
+
+### Games
+This was heavly influence by apps I already had on my phone and they already liked.
+
+* Postnight
+* Dots
+* Odyssey
+* Monument Valley
+* One Night
+
+Configure existing apps
+* Mail
+    * Connect with Gmail
+* Calendar
+    * Connect with Google Calendar
+* FaceTime & Messages
+    * Setup with Apple id
+* Contacts
+    * Added parents, sister (email)
+* Podcasts
+    * Subscription to some content to start
+
+## iPhone iOS Settings
+
+The background motivation here is to reduce passive tracking, basic security, and also unnesesary notifications.
+
+Turn on the phone, and starting at the Home Screen...
+
+* Settings > General
+    * Go to "About" and give your phone a meaningful name.
+
+This will appear in places like AirDrop, Hotspot, Find My Friends etc.
+    
+* Settings > General > Background App Refresh
+    * Turn "Books" _Off_
+    * Turn "Maps" _Off_
+    * Turn "News" _Off_
+    * Turn "Stocks" _Off_
+    * You can also set "Background App Refresh" to happen over "Wi-Fi" only
+* Settings > Bluetooth: _Off_
+* Settings > Notifications
+    * For 'Notification Style', manually set "Allow Notifications" to _Off_
+        * Excepts for harmless apps like Calendar etc.
+        * Turned off Sound on mostly everything else
+        * For "Photos"
+            * Shared Albums
+                * Disabled Sound
+                * Changed "Photo Options" to "Show Alerts from My Contacts"
+            * Sharing Suggestions
+                * Set "Allow Notifications" to _Off_
+            * Memories
+                * Set "Allow Notifications" to _Off_
+    * Government Alerts 
+      Decide if you want to di this. In a decade I've found them annoying and irrelevent.
+      * Turn AMBER Alerts: _Off_
+      * Emergency Alerts: _Off_
+    * Siri Suggestions: 
+      * Turned all _Off_ except for:
+        * Calendar, Clock, Contacts, 
+        * Find Friends, 
+        * Maps, Messages, 
+        * Settings, Safari, 
+        * Wallet
+* Settings > Sounds
+    * Set "Sent Mail" to "None"
+    * Turn "Keyboard Clicks" _Off_ (unless you really want to hear them when they type)
+* "Cellular"
+    * In the app list under "Cellular Data", consider disabling (limiting them to working on Wi-Fi):
+        * App Store
+        * Photos
+* "Siri & Search"
+    * Turn "Allow Siri When Locked" _Off_
+    * Turn all three "Siri Suggestion" options _Off_
+    * In the list of apps disable "Siri and Suggestion" in all
+        * Exceptions might be Contacts, Calendar, etc
+        * If you don't have an Apple Watch you should set "Show app" to _Off_ in "Watch"
+* "Touch ID & Passcode"
+    * Add a fingerprint for the parent
+      * Consider giving it a name that indicates the 
+    * Highly recommended that you do not use a "4-Digit Numeric Code" 
+        * Instead opt for "Custom Numeric Code" and use at least 5 numbers 
+    * Highly recommended that keep "Require passcode" at "Immediately"
+        * For practical reasons we set ours to "After 1 minute"
+* "Emergency SOS"
+    * Take a moment to set up an emergency contact in Health app
+* "Privacy"
+    * In "Location Services"
+        * "System Services"
+            * Disable the following:
+                * Location-Based Alerts (maybe?)
+                * Location-Based Apple Ads
+                * Location-Based Suggestions
+                * Wi-Fi Networking
+                * iPhone Analytics
+                * Popular Near Me
+            * Set "Status Bar Icon" to _On_
+    * In "Advertising"
+        * Set "Limit Ad Tracking" to _On_
+        * Try and remember to return weekly or monthly and tap the "Reset Advertising Identifier..."
+* “Music”
+    * Turn off “Show Apple Music”
+    * Turn off “Cellular Data” (if you want too)
+    * Enable “Volume Limit” and set it below maximum.
+* “Game Center"
+    * Disable "Game Center"
+* "Safari"
+    * Change default "Search Engine" from Google to "DuckDuckGo"
+    * Disable "Search Engine Suggestions"
+    * Disable "Safari Suggestions"
+    * Disable "Preload Top Hit"
+    * Disable "Check for Apple Pay"
+    * Enabled "Ask Websites Not to Track Me"
+
+## Delete
+
+Consider deleting these apps if you don't use them:
+* Home
+* Watch
+* Stocks
+* News
+
+## Contacts
+
+Add a contact for every member of the family. Don't forget to include Street Address and backup ohone numbers. I've found using the "Nickname" and "Relationship" fields very handy. Don't forget to have primary contacts set as Favorites.
+
+With “Relationships” properly setup in contacts, they can say “_Hey Siri, call mom_”.
+
+## Basic Concepts They Should Know
+
+This is worth googling and reading more in....
+
+* Its illegal to force someoen to provide a passcode or password but not to use Touch ID to unlock a phone
+* Tappgin the ??? button 5 times calls Emergency Services
+* How tracking and advertising on the web works
+* Phones are essentially harmful to children but don't take my word for it
