@@ -1,7 +1,7 @@
 # Twenty Five Years of The New York Times Crossword Data
 #### Date: 2017-11-22
 
-Coverimage: crossword.jpg
+![Featured:Two Lego figures holding a pencil and standing on a crossword puzzle in a newspaper](/posts/media/crossword.jpg)
 
 I first started reverse-engineering the *[.puz](http://www.muppetlabs.com/~breadbox/txt/acre.html)* file format about 6 years ago. Its a very efficient crossword format that goes to great lengths to compact the data into a small payload.
 
