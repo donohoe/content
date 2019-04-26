@@ -15,7 +15,7 @@ We've asked a lot of our web pages over the years, slowing them significantly, a
 
 The main metrics I care about and will focus on here are:
 
-1. ** Load Time**:  The time taken for the web page to be considered fully loaded (lower is better).
+1. **Load Time**:  The time taken for the web page to be considered fully loaded (lower is better).
 2. **Speed Index**:  Google's own measure of performance which is used as a SEO signal (lower is better).
 3. **Page Size**:  The amount of bandwidth needed to load all the elements of a page (lower is better).
 
