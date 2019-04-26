@@ -1,7 +1,7 @@
 # Simple GDPR Lockdown
 #### 2018-05-26
 
-[Coverimage: homer-gdpr.jpg]
+![Featured:Homer Simpson seated and reading a GDPR manual](/posts/media/homer-gdpr.jpg)
 
 There was a certain level of mis-information and mis-understanding regarding the EU privacy regulations that came into law.
 
