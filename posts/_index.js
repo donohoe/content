@@ -1,0 +1,10 @@
+{
+  "article-rocks-news.md",
+  "flying-with-kids.md",
+  "iphone-setup-for-kids.md",
+  "mining-new-yorker-haikus.md",
+  "setup-gmail-with-dreamhost-email.md",
+  "simple-gdpr-lockdown.md",
+  "twenty-five-years-nytimes-crossword-data.md",
+  "web-perf-sfchronicle.md"
+}
