@@ -1,4 +1,4 @@
-{
+[
   "article-rocks-news.md",
   "flying-with-kids.md",
   "iphone-setup-for-kids.md",
@@ -7,4 +7,4 @@
   "simple-gdpr-lockdown.md",
   "twenty-five-years-nytimes-crossword-data.md",
   "web-perf-sfchronicle.md"
-}
+]
