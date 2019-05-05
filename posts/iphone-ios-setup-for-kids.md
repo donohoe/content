@@ -1,8 +1,8 @@
 
-# iPhone Setup for Kids
+# iOS Setup for Kids (iPhone/iPad)
 #### April 25th 2019
 
-This is the basic iPhone setup I used to setup my kids iOS phone. As of writing the current version is 12.2.0 but I started when this was 12.1.x. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
+This is the basic iPhone setup I used to setup my kids iOS phone - and this is very applicable to iPads too. As of writing the current version is 12.2.0 but I started when this was 12.1.x. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
 
 We use Google's applications for email, calendar, and documents and this guide reflects that. In most cases you can substitute that with other services (like Apple's own iCloud which you get just by having an Apple id).
 
