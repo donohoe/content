@@ -81,8 +81,7 @@ Turn on the phone, and starting at the Home Screen...
 
 * Settings > General
     * Go to "About" and give your phone a meaningful name.
-
-This will appear in places like AirDrop, Hotspot, Find My Friends etc.
+      * This will appear in places like AirDrop, Hotspot, Find My Friends etc.
     
 * Settings > General > Background App Refresh
     * Turn "Books" _Off_
@@ -90,7 +89,11 @@ This will appear in places like AirDrop, Hotspot, Find My Friends etc.
     * Turn "News" _Off_
     * Turn "Stocks" _Off_
     * You can also set "Background App Refresh" to happen over "Wi-Fi" only
+* Settings > General > Airdrop
+    * Set this to "Contacts Only"
+    * Further Reading: [Sending Lewd Nudes to Strangers Could Mean a Year in Jail](https://www.nytimes.com/2018/11/30/nyregion/airdrop-sexual-harassment.html) (NYTimes, Nov 2018)
 * Settings > Bluetooth: _Off_
+  * If you have a Bluettoth device this is a good time to have them (not you) do the pairing process
 * Settings > Notifications
     * For 'Notification Style', manually set "Allow Notifications" to _Off_
         * Excepts for harmless apps like Calendar etc.
