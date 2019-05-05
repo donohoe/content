@@ -14,7 +14,7 @@ To have multiple emails work with your existing account, here is what you can do
 Lets pretend you have the domain "**example.com**" and you want to setup the email address "**jane@example.com**". 
 
 1. Open link:
-   * [Manage EMail](https://panel.dreamhost.com/index.cgi?tree=mail.addresses&current_step=Index&next_step=New)
+   * [Manage Email](https://panel.dreamhost.com/index.cgi?tree=mail.addresses&current_step=Index&next_step=New)
    * Login if necessary
 2. Fill in the necessary details within the "*Fully Hosted Email*" part of the page
    * Choose "*example.com*" in the dropdown
@@ -79,8 +79,8 @@ Lets pretend you have the domain "**example.com**" and you want to setup the ema
    * Password: **password**
    * Pop Server:  **sub3.mail.dreamhost.com** (use your one)
    * Port: **465**
-   * Check: “*Secured connection using TLS*” (default)
-   * Click “*Add Account*” button
+   * Check: "*Secured connection using TLS*" (default)
+   * Click "*Add Account*" button
 13. Confirm the account
    * You will be asked for verification code
    * Switch over to the Webmail (mentioned at beginning and get it)
@@ -88,13 +88,13 @@ Lets pretend you have the domain "**example.com**" and you want to setup the ema
    * Enter code and hit “*Verify*” button
 14. Go back to Gmail and open Settings (or go to this link)
    * https://mail.google.com/mail/u/0/#settings/accounts
-   * Where it says “*When replying to a message*”
-     * Choose “*Reply from the same address the message was sent to*”
+   * Where it says "*When replying to a message*"
+     * Choose "*Reply from the same address the message was sent to*"
 15. Have a delicious drink of your choosing.
 
 ## The future…
 
-All email sent to your new address will appear in Gmail under the “Example Email” category. You will see it in your regular Inbox too.
+All email sent to your new address will appear in Gmail under the "Example Email" category. You will see it in your regular Inbox too.
 
 When you reply to an email sent to that the ‘example.com’ email address will be used as the *Reply-To*.
 
