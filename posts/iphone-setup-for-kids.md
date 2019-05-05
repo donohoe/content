@@ -2,7 +2,7 @@
 # iPhone Setup for Kids
 #### April 25th 2019
 
-This is the basic iPhone setup I used to setup my kids iOS phone. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
+This is the basic iPhone setup I used to setup my kids iOS phone. As of writing the current version is 12.2.0 but I started when this was 12.1.x. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
 
 I would recommend many of these steps for everyone else too. You should ask yourself 'Why would I do this?' at regular intervals. 
 
@@ -10,30 +10,35 @@ Please let me know if you spot mistakes or anything that is no longer valid.
 
 ## Privacy, Ad Blocking & Tracking Apps
 
-* 1Blocker
-    * Installed "1Blocker Legacy" (free), maybe "1Blocker" (paid)
-* "1.1.1.1"
-    * DNS and privacy from Cloudflare
+* 1Blocker or [Firefox Focus](https://itunes.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
+   * I lean more towards "Firefox Focus" these days.
+   * General recommendation is to pick one Content Blocker app and not multiple (slows things down)
+   * Installed "1Blocker Legacy" (free), maybe "1Blocker" (paid)
+   * [1Blocker FAQ](https://1blocker.com/faq/)
+* "[1.1.1.1](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)"
+  * DNS and privacy from Cloudflare
+  * Further reading: [Cloudflare’s speedy 1.1.1.1 DNS service now available on iOS and Android](https://www.theverge.com/2018/11/12/18087014/cloudflare-dns-service-ios-android-app) (Nov 2018)
 
 ## General nice apps to have
 
 ### Applications
-* The New York Times
-* The New Yorker Today
-    * Expand your mind and read whatever you like (subscription required)
-* Dark Skies
-    * ToDo check privacy policy
-* Docs
+* [The New York Times](https://itunes.apple.com/us/app/the-new-york-times/id284862083)
+* [The New Yorker Today](https://itunes.apple.com/us/app/the-new-yorker-today/id1081530898)
+   * Expand your mind and read whatever you like (subscription required)
+* [Dark Skies](https://itunes.apple.com/us/app/dark-sky-weather/id517329357)
+   * ToDo check [privacy policy](https://darksky.net/privacy)
+* [Docs](https://itunes.apple.com/us/app/google-docs-sync-edit-share/id842842640)
+   * Requires a _Google_ account.
 * Spotify
-    * We have Premium Family account and created her own account
+   * We have Premium Family account and created her own account
 
 ### Games
 This was heavly influence by apps I already had on my phone and they already liked.
 
 * Postnight
 * Dots
-* Odyssey
-* Monument Valley
+* [Alto's Odyssey](https://itunes.apple.com/us/app/altos-odyssey/id1182456409)
+* [Monument Valley](https://itunes.apple.com/us/app/monument-valley/id728293409)
 * One Night
     * Companion app to board game [One Night Ultimate Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G/?tag=readah_20) (Referral link)
 
@@ -42,7 +47,7 @@ This was heavly influence by apps I already had on my phone and they already lik
 Bear in mind that some of this has additional coverage in the _iOS Settings_ 
 
 * Mail
-    * Connected with Gmail
+    * Connected with Gmail which requires a Google account.
 * Calendar
     * Connect with Google Calendar
 * FaceTime
@@ -164,6 +169,7 @@ Consider deleting these apps if you don't use them:
 * Watch
 * Stocks
 * News
+  * This is one to re-visit in a few months/years. Right now it seems to surface a lot of tabloid and click-baiting sources.
 
 ## Contacts
 
@@ -173,9 +179,9 @@ With “Relationships” properly setup in contacts, they can say “_Hey Siri, 
 
 ## Basic Concepts They Should Know
 
-This is worth googling and reading more in....
+This is worth googling and reading more in.... #todo
 
 * Its illegal to force someoen to provide a passcode or password but not to use Touch ID to unlock a phone
-* Tappgin the ??? button 5 times calls Emergency Services
+* Tapping the ??? button 5 times calls Emergency Services
 * How tracking and advertising on the web works
 * Phones are essentially harmful to children but don't take my word for it
