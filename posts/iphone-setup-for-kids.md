@@ -37,7 +37,10 @@ This was heavly influence by apps I already had on my phone and they already lik
 * One Night
     * Companion app to board game [One Night Ultimate Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G/?tag=readah_20) (Refferal link)
 
-Configure existing apps:
+## Standrad iOS Apps
+
+Bear in mind that some of this has additional coverage in the _iOS Settings_ 
+
 * Mail
     * Connected with Gmail
 * Calendar
@@ -63,7 +66,7 @@ Configure existing apps:
 * Podcasts
     * Subscription to some content to start
 
-## iPhone iOS Settings
+## iOS Settings
 
 The background motivation here is to reduce passive tracking, basic security, and also unnesesary notifications.
 
