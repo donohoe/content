@@ -25,7 +25,7 @@ Please let me know if you spot mistakes or anything that is no longer valid.
     * ToDo check privacy policy
 * Docs
 * Spotify
-    * Access to family account
+    * We have Premium Family account and created her own account
 
 ### Games
 This was heavly influence by apps I already had on my phone and they already liked.
@@ -35,16 +35,31 @@ This was heavly influence by apps I already had on my phone and they already lik
 * Odyssey
 * Monument Valley
 * One Night
+    * Companion app to board game [One Night Ultimate Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G/?tag=readah_20) (Refferal link)
 
-Configure existing apps
+Configure existing apps:
 * Mail
-    * Connect with Gmail
+    * Connected with Gmail
 * Calendar
     * Connect with Google Calendar
-* FaceTime & Messages
-    * Setup with Apple id
+* FaceTime
+    * Setup with Apple ID
+    * Disabled "FaceTime Live Photos"
+* Messages
+    * Setup with Apple ID
+    * Settings you might want to think about...
+      * Disabled "Send Read Recipts" (you might want to think about this one yourself)
+      * Disabled "Send as SMS" (I would do this if phone plan allows low number of SMS messages)
+      * "Keep Messages" - do you really need them "Forever"? I set this to "1 Year"
+    * "Filter Unknown Senders"
+      * I planned to leave this disabled for first 3 months as we collected contact info.
+      * Set a calendar reminder to enable after 3 months.
+    * "Low Quality Image Mode"
+      * If you're not sending cherished photos (consier AirDrop instead) and have data plan concerns then enable this
 * Contacts
-    * Added parents, sister (email)
+    * Added parents, siblings, and caregivers
+    * Added the "Relationship" field (not a default)
+    * Added the "Nickname" field (not a default) for friendlier names ("Mom") without stomping over the real name.
 * Podcasts
     * Subscription to some content to start
 
