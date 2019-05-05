@@ -14,7 +14,7 @@ To have multiple emails work with your existing account, here is what you can do
 Lets pretend you have the domain "**example.com**" and you want to setup the email address "**jane@example.com**". 
 
 1. Open link:
-   * https://panel.dreamhost.com/index.cgi?tree=mail.addresses&current_step=Index&next_step=New
+   * [Manage EMail](https://panel.dreamhost.com/index.cgi?tree=mail.addresses&current_step=Index&next_step=New)
    * Login if necessary
 2. Fill in the necessary details within the "*Fully Hosted Email*" part of the page
    * Choose "*example.com*" in the dropdown
