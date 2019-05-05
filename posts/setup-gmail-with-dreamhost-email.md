@@ -22,7 +22,7 @@ Lets pretend you have the domain "**example.com**" and you want to setup the ema
    * Enter a password (Use this whenever I mention *password*)
    * Do not provide a "catch-all" email address etc.
 3. Click the "*Create Address*" button
-4. Find you '*Mail Cluster*' name and make a note for later.
+4. Find your "*Mail Cluster*" name and make a note for later.
   * It will be **one** of these:
     * *sub3.mail.dreamhost.com*
     * *sub4.mail.dreamhost.com*
