@@ -1,7 +1,7 @@
 [
   "article-rocks-news.md",
   "flying-with-kids.md",
-  "iphone-setup-for-kids.md",
+  "iphone-ios-setup-for-kids.md",
   "mining-new-yorker-haikus.md",
   "setup-gmail-with-dreamhost-email.md",
   "simple-gdpr-lockdown.md",
