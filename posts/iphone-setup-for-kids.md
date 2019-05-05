@@ -35,7 +35,7 @@ This was heavly influence by apps I already had on my phone and they already lik
 * Odyssey
 * Monument Valley
 * One Night
-    * Companion app to board game [One Night Ultimate Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G/?tag=readah_20) (Refferal link)
+    * Companion app to board game [One Night Ultimate Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G/?tag=readah_20) (Referral link)
 
 ## Standrad iOS Apps
 
