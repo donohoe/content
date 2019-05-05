@@ -4,6 +4,8 @@
 
 This is the basic iPhone setup I used to setup my kids iOS phone. As of writing the current version is 12.2.0 but I started when this was 12.1.x. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
 
+We use Google's applications for email, calendar, and documents and this guide reflects that. In most cases you can substitute that with other services (like Apple's own iCloud which you get just by having an Apple id).
+
 I would recommend many of these steps for everyone else too. You should ask yourself 'Why would I do this?' at regular intervals. 
 
 Please let me know if you spot mistakes or anything that is no longer valid.
@@ -160,7 +162,8 @@ This will appear in places like AirDrop, Hotspot, Find My Friends etc.
     * Disable "Safari Suggestions"
     * Disable "Preload Top Hit"
     * Disable "Check for Apple Pay"
-    * Enabled "Ask Websites Not to Track Me"
+    * Enable "Ask Websites Not to Track Me"
+      * This not honored by most websites, but its worth standing your ground on this. With GDPR reulgations in force in the EU, and laws coming into effect in California in 2020, this might become practical again.
 
 ## Delete
 
