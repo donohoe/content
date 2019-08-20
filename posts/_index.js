@@ -1,5 +1,6 @@
 [
   "article-rocks-news.md",
+  "the-idea-of-quartz.md",
   "flying-with-kids.md",
   "iphone-ios-setup-for-kids.md",
   "mining-new-yorker-haikus.md",
