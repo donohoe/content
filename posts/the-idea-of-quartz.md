@@ -19,7 +19,7 @@ The original plan included deep-linking and annotations. We also planned to laun
 
 That was too much to take on in the timeline we had and had to wait until later.
 
-[image whiteborad-1]
+![Featured:Whiteboard with early Quartz wireframes](/posts/media/idea-of-quartz/1-whiteboard.jpg)
 
 The early guiding principles included:
 
@@ -32,15 +32,11 @@ In short; if you do right by the reader, respect the content, the revenue will f
 
 So from whiteboard discussions with Zack and others, I usually then went to the iOS app Paper (by FiftyThree).
 
-[image: 2-wireframe]
-
-[image: 3-wireframe-article-long]
-
-[image: 4-wireframe-annotations-side]
-
-[image 5-wiresframe-annotation]
-
-[image 9-wiresframe-annotation-preview]
+![Wireframes](/posts/media/idea-of-quartz/2-wireframe.jpg)
+![Wireframe of long article](/posts/media/idea-of-quartz/3-wireframe-article-long.jpg)
+![Wireframe of annotations](/posts/media/idea-of-quartz/4-wireframe-annotations-side.jpg)
+![Wireframe of an annotation](/posts/media/idea-of-quartz/5-wiresframe-annotation.jpg)
+![Wireframes of previewing an annotation](/posts/media/idea-of-quartz/9-wiresframe-annotation-preview)
 
 A large part I enjoyed was thinking through wireframes and engineering constraints together. It helped to mentally silo functionality into ‘what you know is possible’ and ‘what requires research’ and understanding the knock-on relationship between the two.
 
@@ -51,7 +47,7 @@ We built the site around WordPress, but it didn’t publish pages. Instead we bu
 
 The first prototype didn’t include “continuous scroll” but it demonstrated the speed nature of pulling in articles quickly from cache. 
 
-[image: 10-screenshot-dev]
+![Screenshot of website in development](/posts/media/idea-of-quartz/10-screenshot-dev.jpg)
 
 In short, when you loaded “qz.com” you had inadvertently loaded data for 15 to 20 articles. We were well within localStorage limitations of the time. The end result was lightning fast when scrolling from one to another.
 
@@ -60,7 +56,7 @@ I would add that while I have no respect for Page Views as a meaningful metric, 
 * The next article because 60–70% into the viewport
 * Was in view for 2–3 (I think) number of seconds — to prevent false counts from when people scroll quickly and skip between articles
 
-[image: 11-screenshort-article-partial]
+![Screenshot](/posts/media/idea-of-quartz/11-screenshort-article-partial.jpg)
 
 The new’ish APIs offered in the HTML5 specification were one reason we were pushing big on the open-web. We felt we could provide an experience that was in keeping with the intent of the web and avoided a parallel app development.
 
@@ -69,11 +65,10 @@ We also used the cache manifest so that site would work offline. Sadly the API a
 ## Annotations
 Annotations couldn’t come soon enough. The goal was deep-linking, highlighting, and annotations. Sam built a custom backend to manage the whole process. We followed a similar method to what I had done at the NYTimes and it was a joy to work on.
 
-
-12-annotations-1
-13-annotations-2
-14-annotations-3
-15-annotations-4
+![Screenshot of Annotations](/posts/media/idea-of-quartz/12-annotations-1.jpg)
+![Screenshot of Annotations](/posts/media/idea-of-quartz/13-annotations-2.jpg)
+![Screenshot of Annotations](/posts/media/idea-of-quartz/14-annotations-3.jpg)
+![Screenshot of Annotations](/posts/media/idea-of-quartz/15-annotations-4.jpg)
 
 ## 451
 At one point Gawker had to remove an article from UK readers. It brought up the whole issue of:
@@ -81,7 +76,7 @@ At one point Gawker had to remove an article from UK readers. It brought up the 
 * How to you block content by country, and
 * How do you inform readers that they’re experiencing censorship.
 
-[image: 16-451-error-page]
+![Screenshot of 451 Error Page](/posts/media/idea-of-quartz/16-451-error-page.jpg)
 
 We had reporters in London and I wanted to a solution in place rather than be reactive.
 
@@ -92,13 +87,13 @@ These days I guess its “native content”. I’ve tried working on sponsored c
 
 Internally we often said; We focus on our two customers: The reader and the advertiser. Do right by both of them.
 
-[Image: 17-ads-1]
+![Screenshot of native ad](/posts/media/idea-of-quartz/17-ads-1.jpg)
 
 From the very beginning, we intended that sponsored content had the full set of editorial tools and features that regular content had. That it was templated and differentiated from regular editorial content.
 
 The template is the important factor. I still firmly believe that you will have a hard time scaling native content if you have to do bespoke work on a client by client basis. A flexible and rich template — with known constraints is the holy grail.
 
-[Image 18-ads-2]
+![Screenshot of native ad](/posts/media/idea-of-quartz/18-ads-2.jpg)
 
 All thoughts on ads went though the lens of UX and feedback. Among the early principles and features ofd ads, we covered:
 
@@ -114,14 +109,14 @@ Not many people know this but we created ads that only work with ad blockers. If
 
 Call it an easter-egg.
 
-[image: 19-easter-egg]
+![Screenshot of easter egg](/posts/media/idea-of-quartz/19-easter-egg.jpg)
 
 Collectively these received about 20.8 million impressions. I can only hope that translated to some minor increase in donations. Assuming an optimistic CTR of 0.05% then that would be 10K click-throughs.
 
 Versions
 We built a simple version tracker to track medium and major site updates. Powered by Google Sheets but sadly no longer working.
 
-[image 21-last-deploy-dashboard]
+![Screenshot of the deployment history dashboard](/posts/media/idea-of-quartz/21-last-deploy-dashboard.jpg)
 
 
 ## The End
