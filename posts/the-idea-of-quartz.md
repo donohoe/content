@@ -1,4 +1,5 @@
-# The Idea of QUartz
+# The Idea of Quartz
+#### September 12th 2017
 ## a.k.a. “I found an old bunch of screenshots”
 
 Quartz launched on September 24th, 2012 at 9:55am EST. As it comes up on 5 years of age, I thought it was overdue to test my l33t medium typing skillz.
@@ -25,7 +26,7 @@ The early guiding principles included:
 * Focus on tablet and mobile viewports
 * The mouse is secondary — go with thumbs and scrolling
 * Page Views can go to hell — its engagement and experience stupid
-O* wn ads. View as a first-class citizen. Don’t repeat industry mistakes.
+* Own ads. View as a first-class citizen. Don’t repeat industry mistakes.
 
 In short; if you do right by the reader, respect the content, the revenue will follow.
 
