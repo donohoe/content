@@ -4,9 +4,9 @@
 
 Quartz launched on September 24th, 2012 at 9:55am EST. As it comes up on 5 years of age, I thought it was overdue to test my l33t medium typing skillz.
 
-Quartz started for me on February 22nd 2012 with a tweet to Zach Seward on his departure from the WSJ for an yet unnamed venture. I was living in Seattle at the time and coincidentally had just landed in NYC. The next morning I found myself having breakfast with Kevin Delaney and talking news product.
+Quartz started for me on February 22nd 2012 with a tweet to Zach Seward on his departure from the WSJ for an _yet unnamed venture_. I was living in Seattle at the time and coincidentally had just landed in NYC. The next morning I found myself having breakfast with Kevin Delaney and talking news product.
 
-I find it crazy that people ask me about the early days. I tend to describe it as Kevin, Zach, and I doing “all the things we wanted, but weren’t allowed to do at our old jobs” (WSJ and NYT).
+I find it crazy that people ask me about the early days. I tend to describe it as Kevin, Zach, and I doing “_all the things we wanted, but weren’t allowed to do at our old jobs_” (WSJ and NYT).
 
 This is a hastily arranged snapshot of notes, ideas, and a small part of the process that went into Quartz in the very early days.
 
@@ -28,7 +28,7 @@ The early guiding principles included:
 * Page Views can go to hell — its engagement and experience stupid
 * Own ads. View as a first-class citizen. Don’t repeat industry mistakes.
 
-In short; if you do right by the reader, respect the content, the revenue will follow.
+In short; If you do right by the reader, respect the content, the revenue will follow.
 
 So from whiteboard discussions with Zack and others, I usually then went to the iOS app Paper (by FiftyThree).
 
@@ -38,7 +38,7 @@ So from whiteboard discussions with Zack and others, I usually then went to the 
 ![Wireframe of an annotation](/posts/media/idea-of-quartz/5-wiresframe-annotation.jpg)
 ![Wireframes of previewing an annotation](/posts/media/idea-of-quartz/9-wiresframe-annotation-preview.jpg)
 
-A large part I enjoyed was thinking through wireframes and engineering constraints together. It helped to mentally silo functionality into ‘what you know is possible’ and ‘what requires research’ and understanding the knock-on relationship between the two.
+A large part I enjoyed was thinking through wireframes and engineering constraints together. It helped to mentally silo functionality into ‘_what you know is possible_’ and ‘_what requires research_’ and understanding the knock-on relationship between the two.
 
 ## Development
 In the time before browsers provided rich viewport options for development we had to hack around that.
@@ -49,7 +49,7 @@ The first prototype didn’t include “continuous scroll” but it demonstrated
 
 ![Screenshot of website in development](/posts/media/idea-of-quartz/10-screenshot-dev.jpg)
 
-In short, when you loaded “qz.com” you had inadvertently loaded data for 15 to 20 articles. We were well within localStorage limitations of the time. The end result was lightning fast when scrolling from one to another.
+When you loaded “qz.com” you had inadvertently loaded data for 15 to 20 articles. We were well within localStorage limitations of the time. The end result was lightning fast when scrolling from one to another.
 
 I would add that while I have no respect for Page Views as a meaningful metric, I was paranoid people would accuse us of abusing the metric. As such, when you scroll from one article to another a new PV was triggered if:
 
