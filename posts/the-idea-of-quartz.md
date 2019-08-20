@@ -36,7 +36,7 @@ So from whiteboard discussions with Zack and others, I usually then went to the 
 ![Wireframe of long article](/posts/media/idea-of-quartz/3-wireframe-article-long.jpg)
 ![Wireframe of annotations](/posts/media/idea-of-quartz/4-wireframe-annotations-side.jpg)
 ![Wireframe of an annotation](/posts/media/idea-of-quartz/5-wiresframe-annotation.jpg)
-![Wireframes of previewing an annotation](/posts/media/idea-of-quartz/9-wiresframe-annotation-preview)
+![Wireframes of previewing an annotation](/posts/media/idea-of-quartz/9-wiresframe-annotation-preview.jpg)
 
 A large part I enjoyed was thinking through wireframes and engineering constraints together. It helped to mentally silo functionality into ‘what you know is possible’ and ‘what requires research’ and understanding the knock-on relationship between the two.
 
@@ -66,9 +66,7 @@ We also used the cache manifest so that site would work offline. Sadly the API a
 Annotations couldn’t come soon enough. The goal was deep-linking, highlighting, and annotations. Sam built a custom backend to manage the whole process. We followed a similar method to what I had done at the NYTimes and it was a joy to work on.
 
 ![Screenshot of Annotations](/posts/media/idea-of-quartz/12-annotations-1.jpg)
-![Screenshot of Annotations](/posts/media/idea-of-quartz/13-annotations-2.jpg)
 ![Screenshot of Annotations](/posts/media/idea-of-quartz/14-annotations-3.jpg)
-![Screenshot of Annotations](/posts/media/idea-of-quartz/15-annotations-4.jpg)
 
 ## 451
 At one point Gawker had to remove an article from UK readers. It brought up the whole issue of:
