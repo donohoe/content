@@ -40,6 +40,11 @@ For that same article, lets factor in 10kb for additional HTML, 50K for CSS, 100
 
 ![Chart of relative area based on page size](/posts/media/article-webperf-breakdown.png)
 
+* 25K = Text
+* 75K = Text with Image
+* 300K = Core Text, Image, HTML, CSS, and JS
+* 3,468K = All the above and Usual Suspects: Ads, frameworks, unesesary code, heavy fonts, 3rd-party trackers etc.
+
 Only 8.9% of what the browser receives when requesting an article is actually necessary. 
 
 You have to wonder what we are doing?
