@@ -35,6 +35,9 @@ Given that we are wrapping that core content of 75kb with 3,325kb of secondary d
 
 For that same article, lets factor in 10kb for additional HTML, 50kb for CSS, 100kb for fonts, and 50kb for Javascript. That would bring and payload well under 300kb.
 
+
+![Chart of relative area based on page size](/posts/media/article-webperf-breakdown.png)
+
 Only 8.9% of what the browser receives when requesting an article is actually necessary. 
 
 You have to wonder what we are doing?
