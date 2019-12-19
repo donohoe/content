@@ -1,7 +1,7 @@
 # Infinite ALL the Scrolls
 #### March 11th 2014
 
-With the relaunch of Time.com I’ve had a number of people comparing it to Quartz. This happened a too when Daily Beast made updates last year, but its been more pronounced this time.
+With the relaunch of Time.com I’ve had a number of people comparing it to Quartz. This happened too when Daily Beast made updates last year, but its been more pronounced this time.
 
 Either way, its something I feel that is still mis-categorized - especially when people bemoan the “infinite scroll”.
 
