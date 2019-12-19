@@ -31,7 +31,7 @@ They are the most common page-type in news organizations. In terms of length the
 
 Most of the articles being tested are not "long-form" articles but to play devil's advocate I'm using that as an example. In this case a long-form article with 7,000 words or more (an estimated 25 minute reading time), with a leading high-res image for display on a high-resolution mobile device.
 
-The text of that article is about 25K of data and we will assume featured image at 50K. In 2019, that constitutes 2.2% of what the browser receives when you load an average article.
+The text of that article is about 25K of data and we will assume featured image at 50K. In 2019, that constitutes 2.2% of what the browser receives when you load an average article. (The text of this post is under 6K an dthe image is 16K)
 
 Given that we are wrapping that core content of 75K with 3,325K of secondary data, this is a horrendous state.
 
