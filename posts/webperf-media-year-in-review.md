@@ -48,13 +48,13 @@ I would add that even with an ad blocker enabled I generally see articles in the
 
 This should be a wake-up call for everyone.
 
-It is pointless to turn to band-aid solutions like AMP if our own core pages remain a dumping ground for "everything else". We know that fast media pages are possible. We know that it is possible to have article pages with ads and tracking that load faster than AMP pages.
+It is pointless to turn to band-aid solutions like [AMP](http://ampletter.org/) if our own core pages remain a dumping ground for "everything else". We know that fast media pages are possible. We know that it is possible to have article pages with ads and tracking that load faster than AMP pages.
 
 This is not rocket science. It's not even computer science. It's just thoughtful planning.
 
 Okay then.
 
-In a desperate attempt to end on a lighter note, any lighter note, I'd want to acknowledge a few winners and losers in the Web Page Performance batter based on data collection for the Article Leaderboard.
+In a desperate attempt to end on a lighter note, any lighter note, I'd want to acknowledge a few winners and losers in the Web Page Performance realm based on data collection for the Article Leaderboard.
 
 There were 5 sites that had performance gains above 1000%. That's damn amazing. Not a 10% improvement, or even doubling to a 100% improvement, but more than 1000% improvement. Perhaps there is hope?
 
