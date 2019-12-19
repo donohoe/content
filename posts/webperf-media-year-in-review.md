@@ -1,4 +1,4 @@
-# Web Perfomace: Year in Review for Media & Journalism
+# Web Performance: Year in Review for Media & Journalism
 #### December 19th 2019
 
 The realm of web performance goes deep into the perceived user experience of load time and the actual load time. My specific interest is in media and presenting information to readers - typically article pages. For any given news site, about 80% of their traffic will go to their articles, so that is the focus of this talk.
@@ -19,7 +19,7 @@ In December of 2019, the average news article took **40 seconds to load**, saved
 
 _WTF!?_
 
-Lets step back a moment and review what we're dealing with and why this is just plain bad. If we had all agreed to do nothing on performance this would still have been a terrible outcome. That makes this so much worse.
+Let's step back a moment and review what we're dealing with and why this is just plain bad. If we had all agreed to do nothing on performance this would still have been a terrible outcome. That makes this so much worse.
 
 The data for this comparison is here: [Performance Tracking Analysis 2018 and 2019](https://docs.google.com/spreadsheets/d/16Po_hHkaoJNJFr1oE5HJ2R1EwaX9uGLwQXrReDp04Ow/edit#gid=1178249413) and is based on the on-going daily data collection I do for teh [Article Performance Leaderboard](https://webperf.xyz/) which is [here](https://docs.google.com/spreadsheets/d/1c1zhkdvWE0WvG84TT3Czekj0N-0sRUEBKO3c0Aeflxw/edit#gid=0).
 
@@ -67,7 +67,7 @@ There were 5 sites that had performance gains above 1000%. That's damn amazing. 
 
 ### Largest Loses
 
-* _The Tylt_ was really fast last year at a respectable 9s time and is now averaging 21s even though its dropped from 2MB in size to 1.5MB. Maybe its my data, maybe it is end of year ads?
+* _The Tylt_ was really fast last year at a respectable 9s time and is now averaging 21s even though its dropped from 2MB in size to 1.5MB. Maybe it is my data; maybe it is end of year ad campiagns goign crazys?
 * The New York Times, often seen as a good standard, almost doubled in load time even though Page Size decreased overall. Baffling.
 * Conde Nast as a whole has been declining. 
 
