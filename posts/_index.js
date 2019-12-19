@@ -8,5 +8,6 @@
   "setup-gmail-with-dreamhost-email.md",
   "simple-gdpr-lockdown.md",
   "twenty-five-years-nytimes-crossword-data.md",
-  "web-perf-sfchronicle.md"
+  "web-perf-sfchronicle.md",
+  "webperf-media-year-in-review.md"
 ]
