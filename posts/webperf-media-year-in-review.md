@@ -21,7 +21,7 @@ _WTF!?_
 
 Let's step back a moment and review what we're dealing with and why this is just plain bad. If we had all agreed to do nothing on performance this would still have been a terrible outcome. That makes this so much worse.
 
-The data for this comparison is here: [Performance Tracking Analysis 2018 and 2019](https://docs.google.com/spreadsheets/d/16Po_hHkaoJNJFr1oE5HJ2R1EwaX9uGLwQXrReDp04Ow/edit#gid=1178249413) and is based on the on-going daily data collection I do for teh [Article Performance Leaderboard](https://webperf.xyz/) which is [here](https://docs.google.com/spreadsheets/d/1c1zhkdvWE0WvG84TT3Czekj0N-0sRUEBKO3c0Aeflxw/edit#gid=0).
+The data for this comparison is here: [Performance Tracking Analysis 2018 and 2019](https://docs.google.com/spreadsheets/d/16Po_hHkaoJNJFr1oE5HJ2R1EwaX9uGLwQXrReDp04Ow/edit#gid=1178249413). It is based on the on-going daily data collection for the [Article Performance Leaderboard](https://webperf.xyz/) which is [here](https://docs.google.com/spreadsheets/d/1c1zhkdvWE0WvG84TT3Czekj0N-0sRUEBKO3c0Aeflxw/edit#gid=0).
 
 ### The Average Article
 
