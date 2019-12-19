@@ -7,7 +7,7 @@ Measuring performance becomes harder when you layer in third-parties, internet c
 
 ### 2018
 
-In December of 2018, the average news article took **24 seconds to load**, consumed **3.58MB** of your data plan, and Google scored it a Speed Index value of **11,721**.
+In December of 2018, the average news article took **24 seconds to load**, consumed **3.58MB** of your data plan, and Google scored it a [Speed Index](https://blog.catchpoint.com/2017/04/20/understanding-speed-index/) value of **11,721** (a Speed Index of 3,000 or lower is considered good).
 
 That's very bad. 
 
