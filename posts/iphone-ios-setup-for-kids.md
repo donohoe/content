@@ -2,13 +2,13 @@
 # iOS Setup for Kids (iPhone/iPad)
 #### April 25th 2019
 
-This is the basic iPhone setup I used to setup my kids iOS phone - and this is very applicable to iPads too. As of writing the current version is 12.2.0 but I started when this was 12.1.x. The mains goals were control and privacy and we went through it togther and used it as an excercise to ask questions and discuss how the internet works. 
+This is the basic iOS setup for iPhone I use to setup my kids iOS phone (and to an extent, mine too). As of writing the current version is 12.2.0 but I started when this was 12.1.x. The primary goals are control and privacy, and we went through it together, using it as an excercise with questions and discussion on how the internet works. 
 
-We use Google's applications for email, calendar, and documents and this guide reflects that. In most cases you can substitute that with other services (like Apple's own iCloud which you get just by having an Apple id).
+We use Google's applications for email, calendar, and documents and this guide reflects that. In most cases you can substitute that with other services (like Apple's own iCloud which you get by having an Apple ID).
 
-I would recommend many of these steps for everyone else too. You should ask yourself 'Why would I do this?' at regular intervals. 
+I recommend many of these steps for everyone. You should ask yourself 'Why would I do this?' at regular intervals. 
 
-Please let me know if you spot mistakes or anything that is no longer valid.
+Please let me know if you catch mistakes or something that is no longer valid.
 
 ## Privacy, Ad Blocking & Tracking Apps
 
@@ -46,7 +46,7 @@ This was heavly influence by apps I already had on my phone and they already lik
 
 ## Standrad iOS Apps
 
-Bear in mind that some of this has additional coverage in the _iOS Settings_ 
+Bear in mind that some of this has additional coverage later in _iOS Settings_ 
 
 * Mail
     * Connected with Gmail which requires a Google account.
@@ -60,12 +60,12 @@ Bear in mind that some of this has additional coverage in the _iOS Settings_
     * Settings you might want to think about...
       * Disabled "Send Read Recipts" (you might want to think about this one yourself)
       * Disabled "Send as SMS" (I would do this if phone plan allows low number of SMS messages)
-      * "Keep Messages" - do you really need them "Forever"? I set this to "1 Year"
+      * "Keep Messages" - do you really need them "Forever"? I set this to "1 Year". Less is more.
     * "Filter Unknown Senders"
       * I planned to leave this disabled for first 3 months as we collected contact info.
       * Set a calendar reminder to enable after 3 months.
     * "Low Quality Image Mode"
-      * If you're not sending cherished photos (consier AirDrop instead) and have data plan concerns then enable this
+      * Enable of you're not sending cherished photos (consider AirDrop instead) or have data plan limits
 * Contacts
     * Added parents, siblings, and caregivers
     * Added the "Relationship" field (not a default)
@@ -81,7 +81,7 @@ Turn on the phone, and starting at the Home Screen...
 
 * Settings > General
     * Go to "About" and give your phone a meaningful name.
-      * This will appear in places like AirDrop, Hotspot, Find My Friends etc.
+      * Nothing too personal as this will appear in places like AirDrop, Hotspot, Find My Friends etc.
     
 * Settings > General > Background App Refresh
     * Turn "Books" _Off_
@@ -93,11 +93,11 @@ Turn on the phone, and starting at the Home Screen...
     * Set this to "Contacts Only"
     * Further Reading: [Sending Lewd Nudes to Strangers Could Mean a Year in Jail](https://www.nytimes.com/2018/11/30/nyregion/airdrop-sexual-harassment.html) (NYTimes, Nov 2018)
 * Settings > Bluetooth: _Off_
-  * If you have a Bluettoth device this is a good time to have them (not you) do the pairing process
+  * If you have a Bluettoth device this is a good time to have your child (not you) do the pairing process
 * Settings > Notifications
     * For 'Notification Style', manually set "Allow Notifications" to _Off_
         * Excepts for harmless apps like Calendar etc.
-        * Turned off Sound on mostly everything else
+        * Turned off _Sound_ on mostly everything else
         * For "Photos"
             * Shared Albums
                 * Disabled Sound
@@ -107,7 +107,7 @@ Turn on the phone, and starting at the Home Screen...
             * Memories
                 * Set "Allow Notifications" to _Off_
     * Government Alerts 
-      Decide if you want to di this. In a decade I've found them annoying and irrelevent.
+      Decide if you want to do this. In a decade I've found them annoying and irrelevent.
       * Turn AMBER Alerts: _Off_
       * Emergency Alerts: _Off_
     * Siri Suggestions: 
@@ -132,7 +132,7 @@ Turn on the phone, and starting at the Home Screen...
         * If you don't have an Apple Watch you should set "Show app" to _Off_ in "Watch"
 * "Touch ID & Passcode"
     * Add a fingerprint for the parent
-      * Consider giving it a name that indicates the 
+      * Consider giving it a name that indicates this
     * Highly recommended that you do not use a "4-Digit Numeric Code" 
         * Instead opt for "Custom Numeric Code" and use at least 5 numbers 
     * Highly recommended that keep "Require passcode" at "Immediately"
@@ -155,7 +155,7 @@ Turn on the phone, and starting at the Home Screen...
         * Try and remember to return weekly or monthly and tap the "Reset Advertising Identifier..."
 * “Music”
     * Turn off “Show Apple Music”
-    * Turn off “Cellular Data” (if you want too)
+    * Turn off “Cellular Data” (if you want to)
     * Enable “Volume Limit” and set it below maximum.
 * “Game Center"
     * Disable "Game Center"
@@ -166,7 +166,7 @@ Turn on the phone, and starting at the Home Screen...
     * Disable "Preload Top Hit"
     * Disable "Check for Apple Pay"
     * Enable "Ask Websites Not to Track Me"
-      * This not honored by most websites, but its worth standing your ground on this. With GDPR reulgations in force in the EU, and laws coming into effect in California in 2020, this might become practical again.
+      * This not honored by majority of web sites, but its worth standing your ground on this. With GDPR reulgations in force in the EU, and laws coming into effect in California in 2020, this might become practical again.
 
 ## Delete
 
@@ -179,7 +179,7 @@ Consider deleting these apps if you don't use them:
 
 ## Contacts
 
-Add a contact for every member of the family. Don't forget to include Street Address and backup ohone numbers. I've found using the "Nickname" and "Relationship" fields very handy. Don't forget to have primary contacts set as Favorites.
+Add a contact for every member of the family. Don't forget to include Street Address and backup phone numbers. I've found using the "Nickname" and "Relationship" fields very handy. Don't forget to have primary contacts set as Favorites.
 
 With “Relationships” properly setup in contacts, they can say “_Hey Siri, call mom_”.
 
