@@ -38,12 +38,35 @@ function loadScript( id, src, callback ) {
   head.appendChild(script);
 }
 ```
+### Load CSS LINK
+```javascript
+loadCSS( href, callback ) {
+  const cssId = href.replace(/\W/g, '').substr(-16, 16);
+  if (!document.getElementById(cssId)) {
+    const link = document.createElement( 'link' );
+    link.id = cssId;
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.media = 'all';
+    if (callback) {
+      link.onload = callback();
+    };
+    link.href = href;
+    document.getElementsByTagName('head')[0].appendChild( link );
+  }
+}
+```
 ### Insert DIV after Element
 ```javascript
-function insertDivVAfter( targetEl, id ) {
+function insertDivVAfter( targetEl, id, html ) {
   const div = document.createElement('div');
   div.id = id;
   div.className = 'placement';
+  div.innerHTML = [
+    '<div class="wrapper">',
+      html || '',
+     '</div>'
+  ].join('');
   targetEl.parentNode.insertBefore( div, targetEl.nextSibling );
 }
 
