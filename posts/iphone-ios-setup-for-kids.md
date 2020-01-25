@@ -35,7 +35,7 @@ Please let me know if you catch mistakes or something that is no longer valid.
    * We have Premium Family account and created her own account
 
 ### Games
-This was heavly influence by apps I already had on my phone and they already liked.
+This was heavily influenced by apps I already had on my phone and they already liked.
 
 * Postnight
 * Dots
@@ -44,7 +44,7 @@ This was heavly influence by apps I already had on my phone and they already lik
 * One Night
     * Companion app to board game [One Night Ultimate Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G/?tag=readah_20) (Referral link)
 
-## Standrad iOS Apps
+## Standard iOS Apps
 
 Bear in mind that some of this has additional coverage later in _iOS Settings_ 
 
@@ -187,7 +187,7 @@ With “Relationships” properly setup in contacts, they can say “_Hey Siri, 
 
 This is worth googling and reading more in.... #todo
 
-* Its illegal to force someoen to provide a passcode or password but not to use Touch ID to unlock a phone
+* It's illegal to force someone to provide a passcode or password but not to use Touch ID to unlock a phone
 * Tapping the ??? button 5 times calls Emergency Services
 * How tracking and advertising on the web works
 * Phones are essentially harmful to children but don't take my word for it
