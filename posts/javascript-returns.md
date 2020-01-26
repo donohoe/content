@@ -116,3 +116,22 @@ for (var i = 0, l = list.length; i < l; i++) {
   // Things
 }
 ```
+
+### Placeholder index.html for new directory
+```html
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+	</head>
+	<body>
+		<div style="font-size: 96px; text-align: center; width: 100%; margin-top: 45%;">&nbsp;</div>
+		<script>
+		(function(){
+			document.querySelector('div').innerHTML = '&#' + [ 9731, 8486, 9730, 9733, 9760, 9832, 9874, 9988, 9996, 10006 ].sort(function() {
+				return .5 - Math.random();
+			})[0] + ';'
+		})()
+		</script>
+	</body>
+</html>
+```
