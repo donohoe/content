@@ -87,7 +87,14 @@ function insertDivVAfter( targetEl, id, html ) {
 const list = [ 'a', 'b', 'c', 'd', 'e' ];
 const item = list[ Math.floor(Math.random() * list.length) ];
 ```
- 
+
+### Get random item from array (without getting length)
+```javascript
+[ 9731, 8486, 9730, 9733, 9760, 9832, 9874, 9988, 9996, 10006 ].sort(function() {
+  return .5 - Math.random();
+})[0];
+```
+
 ### Return a random number within a range
 ```javascript
 rand: function(min, max) {
@@ -121,18 +128,18 @@ for (var i = 0, l = list.length; i < l; i++) {
 ### Placeholder index.html for new directory
 ```html
 <html>
-	<head>
-		<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
-	</head>
-	<body>
-		<div style="font-size: 96px; text-align: center; width: 100%; margin-top: 45%;">&nbsp;</div>
-		<script>
-		(function(){
-			document.querySelector('div').innerHTML = '&#' + [ 9731, 8486, 9730, 9733, 9760, 9832, 9874, 9988, 9996, 10006 ].sort(function() {
-				return .5 - Math.random();
-			})[0] + ';'
-		})()
-		</script>
-	</body>
+  <head>
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+  </head>
+  <body>
+    <div style="font-size: 96px; text-align: center; width: 100%; margin-top: 45%;">&nbsp;</div>
+    <script>
+      (function(){
+        document.querySelector('div').innerHTML = '&#' + [ 9731, 8486, 9730, 9733, 9760, 9832, 9874, 9988, 9996, 10006 ].sort(function() {
+          return .5 - Math.random();
+        })[0] + ';'
+      })()
+    </script>
+  </body>
 </html>
 ```
