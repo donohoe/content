@@ -69,6 +69,7 @@ function insertDivVAfter( targetEl, id, html ) {
   ].join('');
   targetEl.parentNode.insertBefore( div, targetEl.nextSibling );
 }
+```
 
 ### Get paramaters from URL
 ```javascript
