@@ -109,3 +109,10 @@ shuffle: function(array) {
   return array;
 }
 ```
+### Fastest loop with length caching
+```javascript
+const list = [ 'a', 'b', 'c', 'd', 'e' ];
+for (var i = 0, l = list.length; i < l; i++) {
+  // Things
+}
+```
