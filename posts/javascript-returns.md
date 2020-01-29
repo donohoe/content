@@ -156,7 +156,7 @@ for (var i = 0, l = list.length; i < l; i++) {
 <a href="sms:5553331234&body=Hello">Text 'Hello' to someone</a>
 <a href="imessage://your@appleid.com">Send Message on macOS</a>
 <a href="imessage://5553331234">Send Message on macOS</a>
-<a href="https://wa.me/?text=_HEAD_%20_ENCODEDLINK_">Pre-populated text in WhatsApp</a>
+<a href="https://wa.me/?text=Nice%20night%20for%20a%20walk">Pre-populated text in WhatsApp</a>
 
 ```
 Reference material:
