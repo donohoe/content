@@ -149,3 +149,16 @@ for (var i = 0, l = list.length; i < l; i++) {
   </body>
 </html>
 ```
+
+### Platform Links
+```html
+<a href="sms:?&body=Hello">Text 'Hello' to no one</a> /* Create a new SMS message on Mobile with pre-populated text */
+<a href="sms:5553331234&body=Hello">Text 'Hello' to someone</a>
+<a href="imessage://your@appleid.com">Send Message on macOS</a>
+<a href="imessage://5553331234">Send Message on macOS</a>
+<a href="https://wa.me/?text=_HEAD_%20_ENCODEDLINK_">Pre-populated text in WhatsApp</a>
+
+```
+Reference material:
+- https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/SMSLinks/SMSLinks.html
+- https://faq.whatsapp.com/en/general/26000030/?category=5245251
