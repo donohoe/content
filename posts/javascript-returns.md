@@ -20,6 +20,7 @@ Nothing earth shattering, just a collection of code fragments and functions I ke
   });
 })();
 ```
+
 ### Load JS into HEAD
 ```javascript
 function loadScript( id, src, callback ) {
@@ -38,6 +39,7 @@ function loadScript( id, src, callback ) {
   head.appendChild(script);
 }
 ```
+
 ### Load CSS LINK
 ```javascript
 loadCSS( href, callback ) {
@@ -58,10 +60,11 @@ loadCSS( href, callback ) {
 ```
 
 ### Viewport Width and Height
-```
+```javascript
 const vw = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
 const vh = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
 ```
+
 ### Insert DIV after Element
 ```javascript
 function insertDivVAfter( targetEl, id, html ) {
@@ -109,6 +112,7 @@ rand: function(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 ```
+
 ### Shuffle an array
 ```javascript
 shuffle: function(array) {
@@ -123,6 +127,7 @@ shuffle: function(array) {
   return array;
 }
 ```
+
 ### Fastest loop with length caching
 ```javascript
 const list = [ 'a', 'b', 'c', 'd', 'e' ];
