@@ -12,7 +12,7 @@ Nothing earth shattering, just a collection of code fragments and functions I ke
       this.run()
     }
     run() {
-    //  Hello
+      console.log( 'Hello' )
     }
   }
   window.addEventListener('DOMContentLoaded', () => {
