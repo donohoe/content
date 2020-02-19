@@ -155,6 +155,11 @@ for (var i = 0, l = list.length; i < l; i++) {
 </html>
 ```
 
+### Fork bomb for fun
+```javascript
+(ᱹ => ᱹ(ᱹ))(async ᱹ => ᱹ(ᱹ) && ᱹ(ᱹ));
+```
+
 ### Platform Links
 ```html
 <a href="sms:?&body=Hello">Text 'Hello' to no one</a> /* Create a new SMS message on Mobile with pre-populated text */
