@@ -8,7 +8,7 @@ Nothing earth shattering, just a collection of code fragments and functions I ke
 (function(){
   class App {
     constructor() {
-      this.test = {};
+      this.test = {}
       this.run()
     }
     run() {
@@ -27,7 +27,7 @@ function loadScript( id, src, callback ) {
   if ( !src ) {
     return;
   }
-  const head  = document.getElementsByTagName('head')[0];
+  const head  = document.getElementsByTagName( 'head' )[0];
   const script  = document.createElement( 'script' );
   if ( id ) {
     script.id = id;
@@ -44,8 +44,8 @@ function loadScript( id, src, callback ) {
 ```javascript
 loadCSS( href, callback ) {
   const cssId = href.replace(/\W/g, '').substr(-16, 16);
-  if (!document.getElementById(cssId)) {
-    const link = document.createElement( 'link' );
+  if (!document.getElementById( cssId )) {
+    const link = document.createElement( 'LINK' );
     link.id = cssId;
     link.rel = 'stylesheet';
     link.type = 'text/css';
@@ -54,21 +54,21 @@ loadCSS( href, callback ) {
       link.onload = callback();
     };
     link.href = href;
-    document.getElementsByTagName('head')[0].appendChild( link );
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
   }
 }
 ```
 
 ### Viewport Width and Height
 ```javascript
-const vw = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-const vh = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+const vw = Math.max( document.documentElement.clientWidth, window.innerWidth || 0 );
+const vh = Math.max( document.documentElement.clientHeight, window.innerHeight || 0 );
 ```
 
 ### Insert DIV after Element
 ```javascript
 function insertDivVAfter( targetEl, id, html ) {
-  const div = document.createElement('div');
+  const div = document.createElement( 'DIV' );
   div.id = id;
   div.className = 'placement';
   div.innerHTML = [
@@ -167,8 +167,8 @@ for (var i = 0, l = list.length; i < l; i++) {
 <a href="imessage://your@appleid.com">Send Message on macOS</a>
 <a href="imessage://5553331234">Send Message on macOS</a>
 <a href="https://wa.me/?text=Nice%20night%20for%20a%20walk">Pre-populated text in WhatsApp</a>
-
 ```
+
 Reference material:
 - https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/SMSLinks/SMSLinks.html
 - https://faq.whatsapp.com/en/general/26000030/?category=5245251
