@@ -150,16 +150,16 @@ rand: function(min, max) {
 
 ### Shuffle an array
 ```javascript
-shuffle: function(array) {
-  let currentIndex = array.length, temporaryValue, randomIndex;
-  while (0 !== currentIndex) {
-    randomIndex = Math.floor(Math.random() * currentIndex);
-    currentIndex -= 1;
-    temporaryValue = array[currentIndex];
-    array[currentIndex] = array[randomIndex];
-    array[randomIndex] = temporaryValue;
+shuffle: function( array ) {
+  let i = array.length, t, r;
+  while (0 !== i) {
+    r = Math.floor( Math.random() * i );
+    i -= 1;
+    t = array[i];
+    array[i] = array[r];
+    array[r] = t;
   }
-  return array;
+  return array
 }
 ```
 
