@@ -91,7 +91,7 @@ function insertDivVAfter( targetEl, id, html ) {
   }
 ```
 
-### Simple AJav for text and JSON
+### Simple Ajax request for Text and JSON
 ```javascript
 function requestJSON( url, callback ) {
 	const r = new XMLHttpRequest();
@@ -125,7 +125,6 @@ function requestText( url, callback ) {
 	r.send();
 }
 ```
-
 
 ### Get random item from array
 ```javascript
