@@ -91,6 +91,42 @@ function insertDivVAfter( targetEl, id, html ) {
   }
 ```
 
+### Simple AJav for text and JSON
+```javascript
+function requestJSON( url, callback ) {
+	const r = new XMLHttpRequest();
+	r.addEventListener('load', function() {
+		if (!callack) {
+			return
+		}
+		const responseText = this.responseText || ''
+		if (responseText) {
+			try {
+				json = JSON.parse( responseText );
+				callback( json )
+			} catch(e) {
+				console.warn( 'Invalid JSON response', responseText );
+			}
+		}
+	});
+	r.open( 'GET', url );
+	r.send();
+}
+
+function requestText( url, callback ) {
+	const r = new XMLHttpRequest();
+	r.addEventListener('load', function() {
+		if (!callback) {
+			return
+		}
+		callback( this.responseText || '' )
+	});
+	r.open( 'GET', url );
+	r.send();
+}
+```
+
+
 ### Get random item from array
 ```javascript
 const list = [ 'a', 'b', 'c', 'd', 'e' ];
