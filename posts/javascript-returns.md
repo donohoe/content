@@ -132,6 +132,12 @@ const list = [ 'a', 'b', 'c', 'd', 'e' ];
 const item = list[ Math.floor(Math.random() * list.length) ];
 ```
 
+### Get unique values from an array / remove duplicates
+```javascript
+const list = [ 'a', 'b', 'c', 'd', 'e', 'a', 'c', 100, 200, 100 ];
+const unique = list.filter((v, i, a) => a.indexOf(v) === i);
+```
+
 ### Get random item from array (without getting length)
 ```javascript
 [ 9731, 8486, 9730, 9733, 9760, 9832, 9874, 9988, 9996, 10006 ].sort(function() {
