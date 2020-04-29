@@ -177,6 +177,17 @@ for (var i = 0, l = list.length; i < l; i++) {
 }
 ```
 
+### Check for slow connection on Andorid/Chrome and Opera
+https://caniuse.com/#feat=netinfo
+
+```javascript
+let is2G = false;
+const connection = navigator.connection || false;
+if (connection && connection.effectiveType.indexOf('2g') > -1 ) {
+    is2G = true;
+}
+```
+
 ### Placeholder index.html for new directory
 ```html
 <html>
