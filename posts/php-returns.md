@@ -21,7 +21,7 @@ print "/* custom css */\n\t\t" . $cssText . "\n";
 ### Common utility functions
 ```
 
-private function randomItemFrom( $array ) {
+function randomItemFrom( $array ) {
   if (is_array($array)) {
     return $array[ rand(0, count($array)-1) ];
   }
