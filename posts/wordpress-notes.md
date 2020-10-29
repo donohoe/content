@@ -3,7 +3,7 @@
 
 Collection of code fragments and useful notes for WordPress
 
-## Ruduimntary word-count from databse
+## Basic word-count by post, from databse
 
 ```sql
 SELECT `ID`, `post_date`, `post_name`, `post_type`, `post_status`, `post_title`, 
