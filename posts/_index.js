@@ -9,5 +9,6 @@
   "simple-gdpr-lockdown.md",
   "twenty-five-years-nytimes-crossword-data.md",
   "web-perf-sfchronicle.md",
-  "webperf-media-year-in-review.md"
+  "webperf-media-year-in-review.md",
+  "sudo-touch-id.md"
 ]
