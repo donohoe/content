@@ -1,5 +1,5 @@
 # Javascript I Keep Returning Too
-#### January 25th 2020
+#### May 25th 2020
 
 Nothing earth shattering, just a collection of code fragments and functions I keep re-writing and re-using...
 
@@ -124,6 +124,12 @@ function requestText( url, callback ) {
   r.open( 'GET', url );
   r.send();
 }
+```
+
+### Add commas to numbers for readability
+```javascript
+const num = 12345678.9;
+const str = num.toLocaleString("en-US");
 ```
 
 ### Get random item from array
