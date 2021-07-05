@@ -10,5 +10,6 @@
   "twenty-five-years-nytimes-crossword-data.md",
   "web-perf-sfchronicle.md",
   "webperf-media-year-in-review.md",
-  "sudo-touch-id.md"
+  "sudo-touch-id.md",
+  "essential-web-dev-apps-macos.md"
 ]
