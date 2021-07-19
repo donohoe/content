@@ -11,5 +11,6 @@
   "web-perf-sfchronicle.md",
   "webperf-media-year-in-review.md",
   "sudo-touch-id.md",
-  "essential-web-dev-apps-macos.md"
+  "essential-web-dev-apps-macos.md",
+  "macos-customize.md"
 ]
