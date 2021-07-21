@@ -11,3 +11,9 @@ Make these changes in the _System Preferences_ but note that you may need to adj
 * Click Services
 * In Searching section, look for "Look Up in Dictionary" option
 * Remove the checkmark
+
+* Click the _Show All_ icon (grid of dots) to get back to System Preferences
+* Open Trackpad
+* Remove the checkamrl for "Look up & data detectors"
+* Remove the checkamrl for "Force Click and haptic feedback"
+
