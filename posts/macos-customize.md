@@ -14,6 +14,6 @@ Make these changes in the _System Preferences_ but note that you may need to adj
 
 * Click the _Show All_ icon (grid of dots) to get back to System Preferences
 * Open Trackpad
-* Remove the checkamrl for "Look up & data detectors"
-* Remove the checkamrl for "Force Click and haptic feedback"
+* Remove the checkmark for "Look up & data detectors"
+* Remove the checkmark for "Force Click and haptic feedback"
 
