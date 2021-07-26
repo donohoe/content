@@ -31,7 +31,7 @@ To do this for all apps, try:
 
 Restart TextEdit.
 
-to restire, try
+To restore, try:
 
 `defaults delete -g NSShowAppCentricOpenPanelInsteadOfUntitledFile`
 
