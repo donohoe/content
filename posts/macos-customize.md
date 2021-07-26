@@ -17,3 +17,21 @@ Make these changes in the _System Preferences_ but note that you may need to adj
 * Remove the checkmark for "Look up & data detectors"
 * Remove the checkmark for "Force Click and haptic feedback"
 
+### TextEdit: Open with a blank file by default
+
+TextEdit should launch and presnet a blank file by default - and not a file picker. 
+
+Open iTerm or Terminal apps and run this:
+
+`defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false`
+
+To do this for all apps, try:
+
+`defaults write -g NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false`
+
+Restart TextEdit.
+
+to restire, try
+
+`defaults delete -g NSShowAppCentricOpenPanelInsteadOfUntitledFile`
+
