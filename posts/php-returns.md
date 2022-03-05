@@ -45,3 +45,27 @@ private function containsFromArray($str, array $arr) {
   return false;
 }
 ```
+
+### Basic readable date
+```
+function get_time_since( $since ) {
+    $chunks = array(
+        // array(31536000 , 'year'),
+        // array(2592000 , 'month'),
+        // array(604800, 'week'),
+        array(86400 , 'day'),
+        array(3600 , 'hour'),
+        array(60 , 'minute'),
+        array(1 , 'second')
+    );
+    for ($i = 0, $j = count($chunks); $i < $j; $i++) {
+        $name = $chunks[$i][1];
+        if (($count = floor($since / $chunks[$i][0])) != 0) {
+            break;
+        }
+    }
+    $print = ($count == 1) ? '1 '.$name : "$count {$name}s";
+    return $print;
+}
+$basic_time = get_time_since( time() - strtotime("2022-03-05 14:03:14") );
+```
