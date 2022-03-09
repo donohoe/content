@@ -24,7 +24,7 @@ function plugin_seo_framework_simple_credit( $arg ) {
 add_filter( 'sybre_waaijer_<3', 'plugin_seo_framework_simple_credit', 10, 1 );
 ```
 
-### Disable the "twitter:creator"
+### Disable "twitter:creator" META tag
 
 I work with sites that use the [Co-Authors Plus](https://wordpress.org/plugins/co-authors-plus/) plugin to manage a large number of contributors. It works great, but the SEO plugin will pull Twitter information from the post author, designating them as teh creator, but not the contributor.
 
