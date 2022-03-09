@@ -3,7 +3,7 @@
 
 ![Featured:Two Lego figures holding a pencil and standing on a crossword puzzle in a newspaper](/posts/media/crossword.jpg)
 
-I first started reverse-engineering the *[.puz](http://www.muppetlabs.com/~breadbox/txt/acre.html)* file format about 6 years ago. Its a very efficient crossword format that goes to great lengths to compact the data into a small payload.
+I first started reverse-engineering the *[.puz](http://www.muppetlabs.com/~breadbox/txt/acre.html)* file format about 6 years ago. Its a very efficient crossword format that goes to great lengths to compact the data into a small payload. (Update: In September 2021 the NYT [no longer uses this file format](https://hackaday.com/2021/09/24/nyt-crossword-decision-puzzles-many/))
 
 With that done, the *The New York Times* crossword archive had interesting information.
 
