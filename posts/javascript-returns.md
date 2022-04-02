@@ -183,6 +183,26 @@ for (var i = 0, l = list.length; i < l; i++) {
 }
 ```
 
+### Replace multiple strings with multiple other strings
+```javascript
+var str = "t1 comes first, quickly followed by t2, but before t4 you will find t3. T2 is still T2.";
+
+var map = {
+    't1': 'test 1',
+    't2': 'test 2',
+    't3': 'test number 3',
+    't4': 'test 4',
+};
+
+var reg = new RegExp( Object.keys(map).join('|'), 'g');
+str = str.replace(reg, function(m){
+    return map[m];
+});
+
+console.log(str);
+// test 1 comes first, quickly followed by test 2, but before test 4 you will find test number 3. T2 is still T2.
+```
+
 ### Check for slow connection on Andorid/Chrome and Opera
 https://caniuse.com/#feat=netinfo
 
