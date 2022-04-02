@@ -1,5 +1,6 @@
 # Javascript I Keep Returning Too
-#### May 25th 2020
+#### Jan 25 2020
+### Updated April 2nd 2022
 
 Nothing earth shattering, just a collection of code fragments and functions I keep re-writing and re-using...
 
