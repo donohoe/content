@@ -1,9 +1,9 @@
 # Adding 
-#### July 5th 2021
+#### Nov 15th 2022
 
 Mastodon allows you to add up to five links to display on your profile. You can easily verify yourself as the owner of the links in your profile metadata if you have full control of the page. However there are some services that you can still verify despite that. 
 
-In these examples I use my own account information and you will substitue with yours. I'm also performing this on Desktop so may vary on mobile website and apps.
+In these examples I use my own account information and you will substitue with yours. I'm also performing this on Desktop so steps may vary on mobile website and apps.
 
 ### Github:
 * Open your Github Profile: https://github.com/donohoe
@@ -23,7 +23,7 @@ In these examples I use my own account information and you will substitue with y
 
 ```<a rel="me" href="https://octodon.social/@donohoe">Mastodon</a>```
 
-## Updat eyour Mastodon account
+## Update your Mastodon account
 - After all (or any) of these steps, return to your Mastodon profile and edit it. 
 - Add the relevent profile link an dlabel in the "Profile metadata". 
 - Click `Save changes`.
