@@ -1,4 +1,4 @@
-# Adding 
+# Adding verified links to your Mastodon profile
 #### Nov 15th 2022
 
 Mastodon allows you to add up to five links to display on your profile. You can easily verify yourself as the owner of the links in your profile metadata if you have full control of the page. However there are some services that you can still verify despite that. 
