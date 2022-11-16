@@ -7,16 +7,16 @@ In these examples I use my own account information and you will substitue with y
 
 ### Github:
 * Open your Github Profile: https://github.com/donohoe
-* Click the `Edit profile` button.
+* Click the _Edit profile_ button.
 * In place of your personal site, paste the link to your mastodon profile.
-* Click `Save`.
+* Click _Save_.
 
 ### Twitter
 * Go to your Profile page settings: https://twitter.com/settings/profile
 * Make a copy of your existing _Bio_ if you'd like to use it afterwards.
 * Paste in the link to your mastodon profile as the _Bio_.
-* Click `Save`.
-* After saving, Twitter removes the leading `https://` but that's ok.
+* Click _Save_.
+* After saving, Twitter removes the leading _https://_ but that's ok.
 
 ### Web Site
 - This assumes you are able to edit the HTML directly. If so, add this:
@@ -26,6 +26,6 @@ In these examples I use my own account information and you will substitue with y
 ## Update your Mastodon account
 - After all (or any) of these steps, return to your Mastodon profile and edit it. 
 - Add the relevent profile link an dlabel in the "Profile metadata". 
-- Click `Save changes`.
+- Click _Save changes_.
 
 That should be it.
