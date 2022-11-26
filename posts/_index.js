@@ -13,5 +13,6 @@
   "sudo-touch-id.md",
   "essential-web-dev-apps-macos.md",
   "macos-customize.md",
-  "mastodon-verifiy-links.md"
+  "mastodon-verifiy-links.md",
+  "twitter-archive.md"
 ]
