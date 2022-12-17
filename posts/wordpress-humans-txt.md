@@ -5,11 +5,11 @@ _humans.txt_ is a simple but effective way for web developers (and other contrib
 
 I have been mentioned in the _humans.txt_ in a number of sites where I no longer work or have access to. A few survive still, but most don't:
 
-- https://donohoe.dev/humans.txt - Not controversial, this site
-- https://nytimes.com/humans.txt - Gone. Re-written.
-- `https://qz.com/humans.txt` - Gone, 404
-- https://newyorker.com/humans.txt - Still there!
-- https://restofworld.org/humans.txt - Still there!
+- [donohoe.dev/humans.txt](https://donohoe.dev/humans.txt) - Not controversial, this site
+- [nytimes.com/humans.txt](https://nytimes.com/humans.txt) - Gone. Re-written.
+- [qz.com/humans.txt](qz.com/humans.txt) - 404
+- [newyorker.com/humans.txt](https://newyorker.com/humans.txt)
+- [restofworld.org/humans.txt](https://restofworld.org/humans.txt)
 
 ### Enable humans.txt
 
