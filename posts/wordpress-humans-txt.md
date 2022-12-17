@@ -52,7 +52,7 @@ function get_humans_txt_request( $wp ) {
 add_action( 'parse_request', 'get_humans_txt_request', 10, 1 );
 
 /**
- * Add a LINK tag in teh HEAD of your main page
+ * Add a LINK tag in the HEAD of your main page
  */
 function add_humans_txt_link() {
 	if (is_front_page()) {
