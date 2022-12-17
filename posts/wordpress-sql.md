@@ -6,7 +6,7 @@ Every few years I need to re-create one of these from scratch...
 
 If you use Coauthors Plus plugin and need a list of posts. This provides basics, including the slug of the Coauthor slug.
 
-```
+```sql
 SELECT name, post_title, post_name 
 FROM wp_term_taxonomy AS c_term_taxonomy
 INNER JOIN wp_terms AS c_terms ON c_term_taxonomy.term_id = c_terms.term_id
