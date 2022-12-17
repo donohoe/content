@@ -14,5 +14,7 @@
   "essential-web-dev-apps-macos.md",
   "macos-customize.md",
   "mastodon-verifiy-links.md",
-  "twitter-archive.md"
+  "twitter-archive.md",
+  "wordpress-notes.md",
+  "wordpress-humans-txt.md"
 ]
