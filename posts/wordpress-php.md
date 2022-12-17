@@ -29,14 +29,16 @@ Prevent the (Chrome) browser from performing profiling for third-party trackers 
 
 ```php
 function disable_floc( $headers ) {
-		$headers[ 'Permissions-Policy' ] = 'browsing-topics=()';
-		return $headers;
+	$headers[ 'Permissions-Policy' ] = 'browsing-topics=()';
+	return $headers;
 }
 add_filter( 'wp_headers', 'disable_floc' );
 ```
 
 ### Remove Comments from WP Admin menu
+
 After you disable comments it still shows up. Lets address that.
+
 ```php
 function row_remove_menu_items() {
 	remove_menu_page( 'edit-comments.php' );
@@ -45,6 +47,8 @@ function row_remove_menu_items() {
 add_action( 'admin_menu', 'row_remove_menu_items' );
 ```
 ### Remove jQuery and wp-embed.js
+
+jQuery had its time and place but it is time to move on. You don't really need a framework for most projects.
 
 ```php
 function deregister_unused_scripts_and_styles(){
@@ -65,6 +69,8 @@ add_action( 'wp_enqueue_scripts', 'deregister_unused_scripts_and_styles' );
 ```
 
 ### Remove what you do not really need...
+
+Across different versions its not clear if these all still work. I've found some incocnisstencies in their effect.
 
 ```php
 /*
