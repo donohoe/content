@@ -1,7 +1,7 @@
 # Adding humans.txt to WordPress
 #### December 17th 2022
 
-Given enough time everything you do as a web developer will be gone. The ability to preserve any legacy is limited. All our code, our ingenuity, shameless hacks, eventually gets refactored, or deleted. The [humans.txt](https://humanstxt.org/) is one small corner where, maybe if you are lucky, you can point to after you have left the company and say _"Look, I helped build that"_.
+_humans.txt_ is a simple but effective way for web developers (and other contributors) to take credit for their work and preserve their legacy on the web. Given enough time everything a web developer touches is gone. The ability to preserve any footprint is limited. All our code, our ingenuity, shameless hacks, eventually are refactored or deleted. The [humans.txt](https://humanstxt.org/) is one small corner in the internet where, maybe if you are lucky, where a simple acknowledgement may remain - this is especially useful if the website is maintained and updated by different teams over time.
 
 I have been mentioned in the _humans.txt_ in a number of sites where I no longer work or have access to. A few survive still, but most don't:
 
@@ -65,6 +65,8 @@ add_action('wp_head', 'add_humans_txt_link');
 ### Write humans.txt
 
 This is the plain-text template I would suggest. Newest team member added to top of list. As folks move on, move them to the Alumni section. I have had a few people over the years apply to jobs noting they found listings through this.
+
+It contains information about the people who have contributed to the development of the website, including the web developers, designers, product managers, and other professionals who have played a role in creating the site.
 
 ```
 # TEAM
