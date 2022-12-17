@@ -1,7 +1,5 @@
-# Adding humans.txt for WordPress
+# Adding humans.txt to WordPress
 #### December 17th 2022
-
-Nothing earth shattering, just a standard place to start. **Bold** and _italics_.
 
 Given enough time everything you do as a web developer will be gone. The ability to preserve any legacy is limited. All our code, our ingenuity, shameless hacks, eventually gets refactored, or deleted. The [humans.txt](https://humanstxt.org/) is one small corner where, maybe if you are lucky, you can point to after you have left the company and say _"Look, I helped build that"_.
 
