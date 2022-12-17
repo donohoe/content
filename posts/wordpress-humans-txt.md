@@ -53,6 +53,15 @@ function get_humans_txt_request( $wp ) {
 }
 add_action( 'parse_request', 'get_humans_txt_request', 10, 1 );
 
+/**
+ * Add a LINK tag in teh HEAD of your main page
+ */
+function add_humans_txt_link() {
+	if (is_front_page()) {
+		echo '<link rel="author" href="humans.txt" />';
+	}
+};
+add_action('wp_head', 'add_humans_txt_link');
 ```
 
 ### Write humans.txt
