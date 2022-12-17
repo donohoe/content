@@ -7,7 +7,7 @@ I have been mentioned in the _humans.txt_ in a number of sites where I no longer
 
 - https://donohoe.dev/humans.txt - Not controversial, this site
 - https://nytimes.com/humans.txt - Gone. Re-written.
-- https://qz.com/humans.txt - Gone, 404
+- `https://qz.com/humans.txt` - Gone, 404
 - https://newyorker.com/humans.txt - Still there!
 - https://restofworld.org/humans.txt - Still there!
 
