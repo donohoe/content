@@ -16,5 +16,6 @@
   "mastodon-verifiy-links.md",
   "twitter-archive.md",
   "wordpress-notes.md",
-  "wordpress-humans-txt.md"
+  "wordpress-humans-txt.md",
+  "wordpress-modify-default-slug.md"
 ]
