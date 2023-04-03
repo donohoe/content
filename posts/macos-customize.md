@@ -3,7 +3,7 @@
 
 ### Disable Dictionary.app
 
-Disable the Dictionary.app so it doesn't alays pop-up when youa ccidntally highlight something, or sneeze.
+Disable the Dictionary.app so it doesn't always pop-up when you accidentally highlight something, or sneeze.
  
 Make these changes in the _System Preferences_ but note that you may need to adjust settings on some apps too.
 
