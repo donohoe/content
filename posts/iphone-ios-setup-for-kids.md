@@ -75,7 +75,7 @@ Bear in mind that some of this has additional coverage later in _iOS Settings_
 
 ## iOS Settings
 
-The background motivation here is to reduce passive tracking, basic security, and also unnesesary notifications.
+The background motivation here is to reduce passive tracking, basic security, and also unnecessary notifications.
 
 Turn on the phone, and starting at the Home Screen...
 
@@ -96,7 +96,7 @@ Turn on the phone, and starting at the Home Screen...
   * If you have a Bluettoth device this is a good time to have your child (not you) do the pairing process
 * Settings > Notifications
     * For 'Notification Style', manually set "Allow Notifications" to _Off_
-        * Excepts for harmless apps like Calendar etc.
+        * Except for harmless apps like Calendar etc.
         * Turned off _Sound_ on mostly everything else
         * For "Photos"
             * Shared Albums
@@ -107,7 +107,7 @@ Turn on the phone, and starting at the Home Screen...
             * Memories
                 * Set "Allow Notifications" to _Off_
     * Government Alerts 
-      Decide if you want to do this. In a decade I've found them annoying and irrelevent.
+      Decide if you want to do this. In a decade I've found them annoying and irrelevant.
       * Turn AMBER Alerts: _Off_
       * Emergency Alerts: _Off_
     * Siri Suggestions: 
@@ -166,7 +166,7 @@ Turn on the phone, and starting at the Home Screen...
     * Disable "Preload Top Hit"
     * Disable "Check for Apple Pay"
     * Enable "Ask Websites Not to Track Me"
-      * This not honored by majority of web sites, but its worth standing your ground on this. With GDPR reulgations in force in the EU, and laws coming into effect in California in 2020, this might become practical again.
+      * This not honored by majority of web sites, but it's worth standing your ground on this. With GDPR regulations in force in the EU, and laws coming into effect in California in 2020, this might become practical again.
 
 ## Delete
 
