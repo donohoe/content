@@ -19,7 +19,7 @@ Make these changes in the _System Preferences_ but note that you may need to adj
 
 ### TextEdit: Open with a blank file by default
 
-TextEdit should launch and presnet a blank file by default - and not a file picker. 
+TextEdit should launch and present a blank file by default - and not a file picker. 
 
 Open iTerm or Terminal apps and run this:
 
