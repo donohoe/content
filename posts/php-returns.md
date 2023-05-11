@@ -69,3 +69,14 @@ function get_time_since( $since ) {
 }
 $basic_time = get_time_since( time() - strtotime("2022-03-05 14:03:14") );
 ```
+
+### Adjust JSON_PRETTY_PRINT for JSON
+
+Make it use 2 spaces, instead of 4. It is not efficent, but it can be done.
+
+```
+$data = [ 'some' => 'thing' ];
+$json = preg_replace_callback ('/^ +/m', function ($m) {
+    return str_repeat (' ', strlen ($m[0]) / 2);
+}, json_encode ($data, JSON_PRETTY_PRINT));
+```
