@@ -80,3 +80,20 @@ $json = preg_replace_callback ('/^ +/m', function ($m) {
     return str_repeat (' ', strlen ($m[0]) / 2);
 }, json_encode ($data, JSON_PRETTY_PRINT));
 ```
+
+### Trim to nearest word
+
+Given a character count it will trim to the nearest word, and add a delimiter of your choice.
+
+```
+function trim_to_nearest_word($text, $limit, $delim = "\u{2026}") {
+	if (mb_strlen($text, 'UTF-8') <= $limit) { return $text; }
+	$lastSpace = mb_strrpos(mb_substr($text, 0, $limit, 'UTF-8'), ' ', 0, 'UTF-8');
+	if ($lastSpace === false) {
+		$text = mb_substr($text, 0, $limit, 'UTF-8');
+	} else {
+		$text = mb_substr($text, 0, $lastSpace, 'UTF-8');
+	}
+	return $text . $delim;
+}
+```
